@@ -6,21 +6,22 @@ This project provides a responsive registration page with client-side validation
 
 - HTML
 - JavaScript
-- Bootstrap 5 for styling
+- CSS for styling
 
 ## How to Use
 
 1. Clone the repository to your local machine.
-
+```bash
+    git clone https://github.com/HemanidhiVarshene/Registration-Page.git
+    ```
 2. Open the `r.html` file in a web browser to view the registration page.
-
 3. Explore the features by trying to register or login.
-
 4. Customize the project as needed for your specific use case.
 
 ## Custom Styles
 
-The project includes a custom CSS file (`r.css`) for additional styling, providing an appealing and responsive design.
+The project includes a custom CSS file (`r.css`) and Javascript file ('r.js')for additional styling, providing an appealing and responsive design and working of the page.
+
 
 ## Contributing
 
